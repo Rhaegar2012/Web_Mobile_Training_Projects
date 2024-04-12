@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactPro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08142039226c591a2bbb3d28fe728a5b3a6be46d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3538c7e7d1d62d18feb44303b7e9caa992256f56")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactPro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactPro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
