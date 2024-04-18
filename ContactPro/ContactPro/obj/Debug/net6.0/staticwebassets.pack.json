@@ -1,16 +1,84 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ContactPro.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ContactPro.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\ClaudiaBlack.png",
+      "PackagePath": "staticwebassets\\img\\ClaudiaBlack.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\ContactPro.png",
+      "PackagePath": "staticwebassets\\img\\ContactPro.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\ContactProLight.png",
+      "PackagePath": "staticwebassets\\img\\ContactProLight.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\CourtenayTaylor.png",
+      "PackagePath": "staticwebassets\\img\\CourtenayTaylor.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\DefaultContactImage.png",
+      "PackagePath": "staticwebassets\\img\\DefaultContactImage.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\FrankLangella.png",
+      "PackagePath": "staticwebassets\\img\\FrankLangella.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\GinaTorres.png",
+      "PackagePath": "staticwebassets\\img\\GinaTorres.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\LanceReddick.png",
+      "PackagePath": "staticwebassets\\img\\LanceReddick.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\MoiraQuirk.png",
+      "PackagePath": "staticwebassets\\img\\MoiraQuirk.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\NathanFillion.png",
+      "PackagePath": "staticwebassets\\img\\NathanFillion.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\NeilKaplan.png",
+      "PackagePath": "staticwebassets\\img\\NeilKaplan.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\NolanNorth.png",
+      "PackagePath": "staticwebassets\\img\\NolanNorth.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\PageLeong.png",
+      "PackagePath": "staticwebassets\\img\\PageLeong.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\ProfilePicPt.png",
+      "PackagePath": "staticwebassets\\img\\ProfilePicPt.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\ProfilePicSQ.png",
+      "PackagePath": "staticwebassets\\img\\ProfilePicSQ.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\ProfilePicWS.png",
+      "PackagePath": "staticwebassets\\img\\ProfilePicWS.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\contactProLanding.png",
+      "PackagePath": "staticwebassets\\img\\contactProLanding.png"
+    },
+    {
+      "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\img\\oops.png",
+      "PackagePath": "staticwebassets\\img\\oops.png"
     },
     {
       "Id": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\wwwroot\\js\\site.js",

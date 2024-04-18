@@ -178,6 +178,46 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Contacts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Contacts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Contacts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -188,6 +228,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Shared/_LoginPartial.cshtml]
@@ -205,7 +249,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joseb/Desktop/Enduring Freedom/Web_Mobile_Training_Projects/ContactPro/ContactPro/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-cw46eocby1
