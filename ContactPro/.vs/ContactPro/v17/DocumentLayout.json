@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactPro\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "ContactPro\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T13:08:37.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ContactPro\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ContactPro\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwIMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:58:24.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ContactsController.cs",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "ContactPro\\Controllers\\ContactsController.cs",
@@ -34,12 +68,11 @@
               "RelativeToolTip": "ContactPro\\Controllers\\ContactsController.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAIwE0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:29:40.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T15:29:40.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_LayoutLander.cshtml",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Shared\\_LayoutLander.cshtml",
               "RelativeDocumentMoniker": "ContactPro\\Views\\Shared\\_LayoutLander.cshtml",
@@ -47,18 +80,17 @@
               "RelativeToolTip": "ContactPro\\Views\\Shared\\_LayoutLander.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T15:24:19.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T15:24:19.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ContactPro\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ContactPro\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-18T12:58:42.676Z",
               "EditorCaption": ""
