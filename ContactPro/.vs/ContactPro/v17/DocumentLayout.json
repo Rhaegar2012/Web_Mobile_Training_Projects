@@ -50,8 +50,7 @@
               "RelativeToolTip": "ContactPro\\Views\\Contacts\\Create.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T13:52:36.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T13:52:36.657Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "ContactPro\\Services\\AddressBookService.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwCsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T13:39:34.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T13:39:34.632Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "ContactPro\\Services\\Interfaces\\IAdressBookService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T13:32:17.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T13:32:17.058Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "ContactPro\\Views\\Contacts\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T13:11:39.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T13:11:39.179Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "ContactPro\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T13:00:55.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T13:00:55.016Z"
             },
             {
               "$type": "Document",
@@ -125,7 +120,7 @@
               "RelativeDocumentMoniker": "ContactPro\\Controllers\\ContactsController.cs",
               "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "ContactPro\\Controllers\\ContactsController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAwwEQAAAApAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEgAAACDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T15:29:40.551Z",
               "EditorCaption": ""
