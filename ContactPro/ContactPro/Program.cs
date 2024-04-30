@@ -1,5 +1,7 @@
 using ContactPro.Data;
 using ContactPro.Models;
+using ContactPro.Services;
+using ContactPro.Services.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,11 +15,16 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetSection("pgSettings")["pgConnection"];
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseNpgsql(connectionString));
+
+//Service registration
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<AppUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+//Custom services registration
+builder.Services.AddScoped<IImageService,ImageService>();
+builder.Services.AddScoped<IAdressBookService,AddressBookService>();
 
 var app = builder.Build();
 

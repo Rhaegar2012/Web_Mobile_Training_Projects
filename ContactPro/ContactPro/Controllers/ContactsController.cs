@@ -10,6 +10,8 @@ using Microsoft.AspNetCore.Authorization;
 using ContactPro.Data;
 using ContactPro.Models;
 using ContactPro.Enums;
+using ContactPro.Services;
+using ContactPro.Services.Interfaces;
 
 namespace ContactPro.Controllers
 {
@@ -19,12 +21,18 @@ namespace ContactPro.Controllers
         private readonly ApplicationDbContext _context;
         //Inject user manager (identity manager)
         private readonly UserManager<AppUser> _userManager;
+        //Inject image service ,as interface and not the concrete class. The implementation of the class might change but the injection is the same 
+        private readonly IImageService _imageService;
+        //Inject address service
+        private readonly IAdressBookService _addressBookService;
 
 
-        public ContactsController(ApplicationDbContext context, UserManager<AppUser> userManager)
+        public ContactsController(ApplicationDbContext context, UserManager<AppUser> userManager,IImageService imageService, IAdressBookService adressBookService)
         {
             _context = context;
             _userManager = userManager;
+            _imageService = imageService;
+            _addressBookService = adressBookService;
         }
 
         // GET: Contacts
@@ -58,10 +66,11 @@ namespace ContactPro.Controllers
         // GET: Contacts/Create
         //Generates the view 
         [Authorize]
-        public IActionResult Create()
+        public async Task <IActionResult> Create()
         {
-            ViewData["AppUserId"] = new SelectList(_context.Users, "Id", "Id");
+            string appUserID = _userManager.GetUserId(User);
             ViewData["StatesList"] = new SelectList(Enum.GetValues(typeof(States)).Cast<States>().ToList());
+            ViewData["CategoryList"] = new MultiSelectList(await _addressBookService.GetUserCategoriesAsync(appUserID));
             return View();
         }
 
@@ -81,6 +90,13 @@ namespace ContactPro.Controllers
                 if(contact.Birthdate != null) 
                 {
                     contact.Birthdate = DateTime.SpecifyKind(contact.Birthdate,DateTimeKind.Utc);
+                }
+
+                if (contact.ImageFile != null) 
+                {
+                    //Updates database model from a service function
+                    contact.ImageData = await _imageService.ConvertFileToByteArrayAsync(contact.ImageFile);
+                    contact.ImageType = contact.ImageFile.ContentType;
                 }
                 //Save to database
                 _context.Add(contact);
