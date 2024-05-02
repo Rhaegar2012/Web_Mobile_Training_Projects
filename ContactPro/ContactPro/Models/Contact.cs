@@ -6,7 +6,9 @@ namespace ContactPro.Models
     public class Contact
     {
         public int Id { get; set; }
-        
+
+
+        //Foreign key for ASP.NET users
         [Required]
         public string? AppUserId { get; set; }
         

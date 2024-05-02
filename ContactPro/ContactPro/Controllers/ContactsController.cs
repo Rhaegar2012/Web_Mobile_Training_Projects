@@ -80,7 +80,7 @@ namespace ContactPro.Controllers
         //Gets data from the form
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,FirstName,LastName,Birthdate,Address1,Address2,City,State,ZipCode,Email,PhoneNumber,ImageFile")] Contact contact)
+        public async Task<IActionResult> Create([Bind("Id,FirstName,LastName,Birthdate,Address1,Address2,City,State,ZipCode,Email,PhoneNumber,ImageFile")] Contact contact,List<int>CategoryList)
         {
             ModelState.Remove("AppUserId");
             if (ModelState.IsValid)
@@ -101,6 +101,10 @@ namespace ContactPro.Controllers
                 //Save to database
                 _context.Add(contact);
                 await _context.SaveChangesAsync();
+                foreach(int categoryId in CategoryList) 
+                {
+                    await _addressBookService.AddContactToCategoryAsync(categoryId, contact.Id);
+                }
                 return RedirectToAction(nameof(Index));
             }
             //returns view - redicting to index
