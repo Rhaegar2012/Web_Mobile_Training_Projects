@@ -3,24 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\services\\addressbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\services\\addressbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joseb\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ContactPro-b2d1bc4d-0856-43dc-a588-918206307cbd\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\contactpro\\contactpro\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A1B511-765F-40B0-A9B3-9348E3C9F481}|ContactPro\\ContactPro.csproj|solutionrelative:contactpro\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +45,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "ContactPro\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Models\\Contact.cs",
-              "RelativeToolTip": "ContactPro\\Models\\Contact.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAswAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:46:18.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "ContactPro\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Models\\Category.cs",
-              "RelativeToolTip": "ContactPro\\Models\\Category.cs",
+              "Title": "AddressBookService.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Services\\AddressBookService.cs",
+              "RelativeDocumentMoniker": "ContactPro\\Services\\AddressBookService.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Services\\AddressBookService.cs",
+              "RelativeToolTip": "ContactPro\\Services\\AddressBookService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:46:17.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "ContactPro\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Models\\AppUser.cs",
-              "RelativeToolTip": "ContactPro\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:46:07.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContactsController.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Controllers\\ContactsController.cs",
-              "RelativeDocumentMoniker": "ContactPro\\Controllers\\ContactsController.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Controllers\\ContactsController.cs",
-              "RelativeToolTip": "ContactPro\\Controllers\\ContactsController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAQwC8AAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:36:57.441Z",
+              "WhenOpened": "2024-05-10T15:38:51.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Contacts\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContactPro\\Views\\Contacts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Contacts\\Index.cshtml",
-              "RelativeToolTip": "ContactPro\\Views\\Contacts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABAAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactPro\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactPro\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T12:56:47.998Z",
+              "WhenOpened": "2024-05-10T15:27:22.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactPro\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "ContactPro\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T15:12:01.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ContactPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:58:01.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ContactPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:33:43.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\joseb\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ContactPro-b2d1bc4d-0856-43dc-a588-918206307cbd\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ContactPro-b2d1bc4d-0856-43dc-a588-918206307cbd\\secrets.json",
+              "ToolTip": "C:\\Users\\joseb\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ContactPro-b2d1bc4d-0856-43dc-a588-918206307cbd\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ContactPro-b2d1bc4d-0856-43dc-a588-918206307cbd\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T13:16:30.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContactPro\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContactPro\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:09:10.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactPro\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactPro\\Models\\Contact.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:46:18.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactPro\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\ContactPro\\ContactPro\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactPro\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:36:57.441Z",
               "EditorCaption": ""
             }
           ]

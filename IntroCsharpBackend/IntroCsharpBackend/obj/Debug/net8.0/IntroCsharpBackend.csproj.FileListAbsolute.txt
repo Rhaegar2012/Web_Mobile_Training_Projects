@@ -1,0 +1,15 @@
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.exe
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.deps.json
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.runtimeconfig.json
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.dll
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.pdb
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.AssemblyInfoInputs.cache
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.AssemblyInfo.cs
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.csproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.sourcelink.json
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.dll
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\refint\IntroCsharpBackend.dll
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.pdb
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.genruntimeconfig.cache
+C:\Users\joseb\Desktop\Enduring Freedom\Web_Mobile_Training_Projects\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\ref\IntroCsharpBackend.dll

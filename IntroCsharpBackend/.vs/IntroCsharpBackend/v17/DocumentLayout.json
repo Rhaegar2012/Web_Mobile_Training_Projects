@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\introcsharpbackend\\introcsharpbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|solutionrelative:introcsharpbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\IntroCsharpBackend\\Program.cs",
+              "RelativeDocumentMoniker": "IntroCsharpBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\IntroCsharpBackend\\Program.cs",
+              "RelativeToolTip": "IntroCsharpBackend\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:29:06.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
