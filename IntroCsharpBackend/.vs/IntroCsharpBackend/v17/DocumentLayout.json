@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\introcsharpbackend\\introcsharpbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|solutionrelative:introcsharpbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\introcsharpbackend\\introcsharpbackend\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|solutionrelative:introcsharpbackend\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\introcsharpbackend\\introcsharpbackend\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|solutionrelative:introcsharpbackend\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\introcsharpbackend\\introcsharpbackend\\isale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1B61-0653-4D62-A206-B34FB74670D2}|IntroCsharpBackend\\IntroCsharpBackend.csproj|solutionrelative:introcsharpbackend\\isale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\IntroCsharpBackend\\People.cs",
+              "RelativeDocumentMoniker": "IntroCsharpBackend\\People.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\IntroCsharpBackend\\People.cs",
+              "RelativeToolTip": "IntroCsharpBackend\\People.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:36:20.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\IntroCsharpBackend\\MyList.cs",
+              "RelativeDocumentMoniker": "IntroCsharpBackend\\MyList.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\IntroCsharpBackend\\MyList.cs",
+              "RelativeToolTip": "IntroCsharpBackend\\MyList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:05:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISale.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\IntroCsharpBackend\\ISale.cs",
+              "RelativeDocumentMoniker": "IntroCsharpBackend\\ISale.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\IntroCsharpBackend\\ISale.cs",
+              "RelativeToolTip": "IntroCsharpBackend\\ISale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:56:52.305Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "IntroCsharpBackend\\Program.cs",
               "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\IntroCsharpBackend\\IntroCsharpBackend\\Program.cs",
               "RelativeToolTip": "IntroCsharpBackend\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBYAAAAoAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T13:29:06.403Z",
               "EditorCaption": ""
