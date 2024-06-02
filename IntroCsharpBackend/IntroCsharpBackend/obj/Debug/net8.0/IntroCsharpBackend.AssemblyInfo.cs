@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroCsharpBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64d6732d93fbd849ab07500f771a5ecbc2b627af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cc5005d7da3a6a9250a655be24d2907ee295f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroCsharpBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroCsharpBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

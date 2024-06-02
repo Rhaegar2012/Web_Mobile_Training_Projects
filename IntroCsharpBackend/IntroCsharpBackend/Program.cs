@@ -43,6 +43,11 @@ Console.WriteLine(message);
 Console.WriteLine(numbers.GetContent());
 Console.WriteLine(names.GetContent());
 
+//Linq
+var nameList = new List<string>() { "Hector", "Francisco","Ana", "Hugo", "Pedro" };
+var linq=new LINQ(nameList);
+linq.OrderBy();
+
 class SaleWithTax : Sale 
 {
     public decimal Tax { get;set; }
