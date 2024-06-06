@@ -1,7 +1,7 @@
 ﻿using BackendAPIProject.Controllers;
 namespace BackendAPIProject.Services
 {
-    public class People2Service:IPeopleService
+    public class PeopleService:IPeopleService
     {
         public bool Validate(People people) 
         {
