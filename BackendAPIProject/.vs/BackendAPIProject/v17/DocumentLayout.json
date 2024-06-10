@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\irandomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\irandomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SomeController.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\SomeController.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Controllers\\SomeController.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\SomeController.cs",
-              "RelativeToolTip": "BackendAPIProject\\Controllers\\SomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:32:39.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RandomController.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\RandomController.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Controllers\\RandomController.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\RandomController.cs",
-              "RelativeToolTip": "BackendAPIProject\\Controllers\\RandomController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvyAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:05:42.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RandomService.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\RandomService.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Services\\RandomService.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\RandomService.cs",
-              "RelativeToolTip": "BackendAPIProject\\Services\\RandomService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:00:41.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRandomService.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\IRandomService.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Services\\IRandomService.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\IRandomService.cs",
-              "RelativeToolTip": "BackendAPIProject\\Services\\IRandomService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:00:09.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Program.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Program.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Program.cs",
-              "RelativeToolTip": "BackendAPIProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:43:04.848Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendAPIProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\appsettings.json",
+              "RelativeToolTip": "BackendAPIProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T15:38:06.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PeopleService.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\PeopleService.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Services\\PeopleService.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\PeopleService.cs",
-              "RelativeToolTip": "BackendAPIProject\\Services\\PeopleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "BackendAPIProject\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "BackendAPIProject\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:35:29.387Z",
+              "WhenOpened": "2024-06-10T15:22:08.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPeopleService.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\IPeopleService.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Services\\IPeopleService.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\IPeopleService.cs",
-              "RelativeToolTip": "BackendAPIProject\\Services\\IPeopleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Program.cs",
+              "RelativeDocumentMoniker": "BackendAPIProject\\Program.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Program.cs",
+              "RelativeToolTip": "BackendAPIProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:34:50.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PeopleController.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\PeopleController.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Controllers\\PeopleController.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\PeopleController.cs",
-              "RelativeToolTip": "BackendAPIProject\\Controllers\\PeopleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T12:54:49.256Z",
+              "WhenOpened": "2024-06-10T15:21:06.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OperationController.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\OperationController.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Controllers\\OperationController.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\OperationController.cs",
-              "RelativeToolTip": "BackendAPIProject\\Controllers\\OperationController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAnAAAA",
+              "DocumentIndex": 2,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "BackendAPIProject\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\PostService.cs",
+              "RelativeToolTip": "BackendAPIProject\\Services\\PostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:52:43.313Z",
+              "WhenOpened": "2024-06-10T15:15:38.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\IPostService.cs",
+              "RelativeDocumentMoniker": "BackendAPIProject\\Services\\IPostService.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\IPostService.cs",
+              "RelativeToolTip": "BackendAPIProject\\Services\\IPostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:13:38.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\PostDTO.cs",
+              "RelativeDocumentMoniker": "BackendAPIProject\\DTOs\\PostDTO.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\PostDTO.cs",
+              "RelativeToolTip": "BackendAPIProject\\DTOs\\PostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:11:38.051Z",
               "EditorCaption": ""
             }
           ]
