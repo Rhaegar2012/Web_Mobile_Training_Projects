@@ -17,7 +17,7 @@ builder.Services.AddHttpClient<IPostService, PostService>(c =>
 });
 builder.Services.AddDbContext<StoreContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("StoreConnection"));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("StoreConnection"));
 });
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
