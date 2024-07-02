@@ -1,6 +1,9 @@
 using BackendAPIProject.Services;
 using BackendAPIProject.Models;
 using Microsoft.EntityFrameworkCore;
+using BackendAPIProject.Validators;
+using FluentValidation;
+using BackendAPIProject.DTOs;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +22,9 @@ builder.Services.AddDbContext<StoreContext>(options =>
 {
     options.UseNpgsql(builder.Configuration.GetConnectionString("StoreConnection"));
 });
+//Validators
+builder.Services.AddScoped<IValidator<BeerInsertDTO>, BeerInsertValidator>();
+builder.Services.AddScoped<IValidator<BeerUpdateDTO>, BeerUpdateValidator>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

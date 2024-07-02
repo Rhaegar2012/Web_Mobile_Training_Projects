@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using BackendAPIProject.DTOs;
 using Microsoft.EntityFrameworkCore;
+using FluentValidation;
 
 namespace BackendAPIProject.Controllers
 {
@@ -11,9 +12,13 @@ namespace BackendAPIProject.Controllers
     public class BeerController : ControllerBase
     {
         private StoreContext _context;
-        public BeerController(StoreContext context) 
+        private IValidator<BeerInsertDTO> _beerInsertValidator;
+        private IValidator<BeerUpdateDTO> _beerUpdateValidator;
+        public BeerController(StoreContext context, IValidator<BeerInsertDTO> beerInsertValidator, IValidator<BeerUpdateDTO> beerUpdateValidator) 
         {
             _context = context;
+            _beerInsertValidator = beerInsertValidator;
+            _beerUpdateValidator = beerUpdateValidator;
         }
 
         [HttpGet]
@@ -54,6 +59,14 @@ namespace BackendAPIProject.Controllers
         [HttpPost]
         public async Task<ActionResult<BeerDTO>> Add(BeerInsertDTO beerInsertDTO) 
         {
+            //Validation 
+            var validationResult = await _beerInsertValidator.ValidateAsync(beerInsertDTO);
+
+            if (!validationResult.IsValid) 
+            {
+                return BadRequest(validationResult.Errors);
+            }
+
             var beer = new Beer()
             {
                 Name = beerInsertDTO.Name,
@@ -77,6 +90,7 @@ namespace BackendAPIProject.Controllers
         [HttpPut("{id}")]
         public async Task<ActionResult<BeerDTO>> Update(int id, BeerUpdateDTO beerUpdateDTO) 
         {
+            var validationResult = await _beerUpdateValidator.ValidateAsync(beerUpdateDTO);
             var beer = await _context.Beers.FindAsync(id);
             if(beer == null) 
             {
