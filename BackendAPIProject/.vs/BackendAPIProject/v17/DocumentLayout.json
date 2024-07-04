@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,40 +15,8 @@
       "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\validators\\beerupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\validators\\beerupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\validators\\beerinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\validators\\beerinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\dtos\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\dtos\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\dtos\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\dtos\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\ibeerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\ibeerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BeerUpdateValidator.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Validators\\BeerUpdateValidator.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Validators\\BeerUpdateValidator.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Validators\\BeerUpdateValidator.cs",
-              "RelativeToolTip": "BackendAPIProject\\Validators\\BeerUpdateValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABsAAAA",
+              "DocumentIndex": 0,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "BackendAPIProject\\Services\\BeerService.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\BeerService.cs",
+              "RelativeToolTip": "BackendAPIProject\\Services\\BeerService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowDAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T15:40:43.821Z",
+              "WhenOpened": "2024-07-04T15:32:22.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "IBeerService.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\IBeerService.cs",
+              "RelativeDocumentMoniker": "BackendAPIProject\\Services\\IBeerService.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\IBeerService.cs",
+              "RelativeToolTip": "BackendAPIProject\\Services\\IBeerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:22:50.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Program.cs",
               "RelativeDocumentMoniker": "BackendAPIProject\\Program.cs",
               "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Program.cs",
               "RelativeToolTip": "BackendAPIProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T15:12:21.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BeerInsertValidator.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Validators\\BeerInsertValidator.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Validators\\BeerInsertValidator.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Validators\\BeerInsertValidator.cs",
-              "RelativeToolTip": "BackendAPIProject\\Validators\\BeerInsertValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T15:06:37.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\appsettings.json",
-              "RelativeDocumentMoniker": "BackendAPIProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\appsettings.json",
-              "RelativeToolTip": "BackendAPIProject\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-22T01:08:08.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BeerController.cs",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\BeerController.cs",
               "RelativeDocumentMoniker": "BackendAPIProject\\Controllers\\BeerController.cs",
               "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\BeerController.cs",
               "RelativeToolTip": "BackendAPIProject\\Controllers\\BeerController.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAIwFwAAABbAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T00:35:45.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Beer.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Models\\Beer.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Models\\Beer.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Models\\Beer.cs",
-              "RelativeToolTip": "BackendAPIProject\\Models\\Beer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:35:12.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Models\\Brand.cs",
-              "RelativeToolTip": "BackendAPIProject\\Models\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:35:11.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\PostDTO.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\DTOs\\PostDTO.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\PostDTO.cs",
-              "RelativeToolTip": "BackendAPIProject\\DTOs\\PostDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:31:53.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BeerUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\BeerUpdateDTO.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\DTOs\\BeerUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\BeerUpdateDTO.cs",
-              "RelativeToolTip": "BackendAPIProject\\DTOs\\BeerUpdateDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:31:52.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BeerInsertDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\BeerInsertDTO.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\DTOs\\BeerInsertDTO.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\BeerInsertDTO.cs",
-              "RelativeToolTip": "BackendAPIProject\\DTOs\\BeerInsertDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:31:51.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BeerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\BeerDTO.cs",
-              "RelativeDocumentMoniker": "BackendAPIProject\\DTOs\\BeerDTO.cs",
-              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\DTOs\\BeerDTO.cs",
-              "RelativeToolTip": "BackendAPIProject\\DTOs\\BeerDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:31:49.747Z",
               "EditorCaption": ""
             }
           ]
