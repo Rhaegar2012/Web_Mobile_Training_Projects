@@ -13,7 +13,7 @@ builder.Services.AddKeyedSingleton<IRandomService, RandomService>("randomSinglet
 builder.Services.AddKeyedScoped<IRandomService, RandomService>("randomScoped");
 builder.Services.AddKeyedTransient<IRandomService, RandomService>("randomTransient");
 builder.Services.AddScoped<IPostService, PostService>();
-builder.Services.AddScoped<IBeerService, BeerService>();
+builder.Services.AddKeyedScoped<ICommonService<BeerDTO,BeerInsertDTO,BeerUpdateDTO>, BeerService>("beerService");
 //HTTP Client injection
 builder.Services.AddHttpClient<IPostService, PostService>(c =>
 {

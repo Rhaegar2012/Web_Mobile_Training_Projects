@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BackendAPIProject.Services
 {
-    public class BeerService : IBeerService
+    public class BeerService : ICommonService<BeerDTO,BeerInsertDTO,BeerUpdateDTO>
     {
         private StoreContext _context;
 
@@ -12,14 +12,47 @@ namespace BackendAPIProject.Services
         {
             _context = context;   
         }
-        public Task<BeerDTO> Add(BeerInsertDTO beerInsertDTO)
+        public async Task<BeerDTO> Add(BeerInsertDTO beerInsertDTO)
         {
-            throw new NotImplementedException();
+            var beer = new Beer()
+            {
+                Name = beerInsertDTO.Name,
+                BrandId = beerInsertDTO.BrandID,
+                Alcohol = beerInsertDTO.Alcohol
+            };
+
+            await _context.Beers.AddAsync(beer);
+            await _context.SaveChangesAsync();
+
+            var beerDTO = new BeerDTO
+            {
+                Id = beer.BeerId,
+                Name = beer.Name,
+                Alcohol = beer.Alcohol,
+                BrandID = beer.BrandId
+            };
+
+            return beerDTO;
         }
 
-        public Task<BeerDTO> Delete(int id)
+        public async Task<BeerDTO> Delete(int id)
         {
-            throw new NotImplementedException();
+            var beer = await _context.Beers.FindAsync(id);
+            if (beer != null)
+            {
+                var beerDTO = new BeerDTO
+                {
+                    Id = beer.BeerId,
+                    Name = beer.Name,
+                    Alcohol = beer.Alcohol,
+                    BrandID = beer.BrandId
+                };
+                _context.Remove(beer);
+                await _context.SaveChangesAsync();
+                return beerDTO;
+            }
+            return null;
+
         }
 
         public async Task<IEnumerable<BeerDTO>> Get()
@@ -54,7 +87,25 @@ namespace BackendAPIProject.Services
 
         public async Task<BeerDTO> Update(int id, BeerUpdateDTO beerUpdateDTO)
         {
-            throw new NotImplementedException();
+            var beer = await _context.Beers.FindAsync(id);
+            if (beer !=null) 
+            {
+                beer.Name = beerUpdateDTO.Name;
+                beer.Alcohol = beerUpdateDTO.Alcohol;
+                beer.BrandId = beer.BrandId;
+                await _context.SaveChangesAsync();
+
+                var beerDTO = new BeerDTO
+                {
+                    Id = beer.BeerId,
+                    Name = beer.Name,
+                    Alcohol = beer.Alcohol,
+                    BrandID = beer.BrandId
+                };
+                return beerDTO;
+            }
+            return null;
+           
         }
     }
 }
