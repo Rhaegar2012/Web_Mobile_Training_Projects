@@ -1,5 +1,6 @@
 ﻿using BackendAPIProject.DTOs;
 using BackendAPIProject.Models;
+using BackendAPIProject.Repository;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackendAPIProject.Services
@@ -7,10 +8,12 @@ namespace BackendAPIProject.Services
     public class BeerService : ICommonService<BeerDTO,BeerInsertDTO,BeerUpdateDTO>
     {
         private StoreContext _context;
+        private IRepository<Beer> _beerRepository;
 
-        public BeerService(StoreContext context) 
+        public BeerService(StoreContext context,IRepository<Beer> beerRepository) 
         {
-            _context = context;   
+            _context        = context;
+            _beerRepository = beerRepository;
         }
         public async Task<BeerDTO> Add(BeerInsertDTO beerInsertDTO)
         {
@@ -21,8 +24,8 @@ namespace BackendAPIProject.Services
                 Alcohol = beerInsertDTO.Alcohol
             };
 
-            await _context.Beers.AddAsync(beer);
-            await _context.SaveChangesAsync();
+            await _beerRepository.Add(beer);
+            await _beerRepository.Save();
 
             var beerDTO = new BeerDTO
             {
@@ -57,18 +60,19 @@ namespace BackendAPIProject.Services
 
         public async Task<IEnumerable<BeerDTO>> Get()
         {
-           return await _context.Beers.Select(b => new BeerDTO
+            var beers = await _beerRepository.Get();
+            return beers.Select(b => new BeerDTO()
             {
                 Id = b.BeerId,
                 Name = b.Name,
-                Alcohol = b.Alcohol,
-                BrandID = b.BrandId
-            }).ToListAsync();
+                BrandID= b.BrandId,
+                Alcohol = b.Alcohol
+            });
         }
 
         public async Task<BeerDTO> GetById(int id)
         {
-            var beer = await _context.Beers.FindAsync(id);
+            var beer = await _beerRepository.GetById(id);
             if (beer != null) 
             {
                 var beerDTO = new BeerDTO
@@ -87,13 +91,14 @@ namespace BackendAPIProject.Services
 
         public async Task<BeerDTO> Update(int id, BeerUpdateDTO beerUpdateDTO)
         {
-            var beer = await _context.Beers.FindAsync(id);
+            var beer = await _beerRepository.GetById(id);
             if (beer !=null) 
             {
                 beer.Name = beerUpdateDTO.Name;
                 beer.Alcohol = beerUpdateDTO.Alcohol;
                 beer.BrandId = beer.BrandId;
-                await _context.SaveChangesAsync();
+                _beerRepository.Update(beer);
+                await _beerRepository.Save();
 
                 var beerDTO = new BeerDTO
                 {

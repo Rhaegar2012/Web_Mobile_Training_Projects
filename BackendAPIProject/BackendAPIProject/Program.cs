@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using BackendAPIProject.Validators;
 using FluentValidation;
 using BackendAPIProject.DTOs;
+using BackendAPIProject.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +20,8 @@ builder.Services.AddHttpClient<IPostService, PostService>(c =>
 {
     c.BaseAddress = new Uri(builder.Configuration["BaseUrlPosts"]);
 });
+// Repository
+builder.Services.AddScoped<IRepository<Beer>, BeerRepository>();
 builder.Services.AddDbContext<StoreContext>(options =>
 {
     options.UseNpgsql(builder.Configuration.GetConnectionString("StoreConnection"));
