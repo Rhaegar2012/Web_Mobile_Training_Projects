@@ -17,9 +17,9 @@ namespace BackendAPIProject.Repository
             await _context.Beers.AddAsync(entity);
         }
 
-        public Task Delete(Beer entity)
+        public async Task Delete(Beer beer)
         {
-            throw new NotImplementedException();
+            _context.Beers.Remove(beer);
         }
 
         public async Task<IEnumerable<Beer>> Get()

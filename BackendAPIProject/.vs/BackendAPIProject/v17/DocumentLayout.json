@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|c:\\users\\joseb\\desktop\\enduring freedom\\web_mobile_training_projects\\backendapiproject\\backendapiproject\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A657E6-578E-4E8E-AD41-C69ECEAD410E}|BackendAPIProject\\BackendAPIProject.csproj|solutionrelative:backendapiproject\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Automappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BackendAPIProject\\Automappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Automappers\\MappingProfile.cs",
+              "RelativeToolTip": "BackendAPIProject\\Automappers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:21:19.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BeerRepository.cs",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Repository\\BeerRepository.cs",
               "RelativeDocumentMoniker": "BackendAPIProject\\Repository\\BeerRepository.cs",
               "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Repository\\BeerRepository.cs",
               "RelativeToolTip": "BackendAPIProject\\Repository\\BeerRepository.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwCoAAABEAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T15:17:22.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "BackendAPIProject\\Repository\\IRepository.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "BackendAPIProject\\Controllers\\PostsController.cs",
@@ -76,7 +93,8 @@
               "RelativeToolTip": "BackendAPIProject\\Controllers\\PostsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T13:55:35.528Z"
+              "WhenOpened": "2024-07-10T13:55:35.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,14 +104,14 @@
               "RelativeDocumentMoniker": "BackendAPIProject\\Services\\BeerService.cs",
               "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\BeerService.cs",
               "RelativeToolTip": "BackendAPIProject\\Services\\BeerService.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAcwGMAAAAtAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T15:32:22.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ICommonService.cs",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Services\\ICommonService.cs",
               "RelativeDocumentMoniker": "BackendAPIProject\\Services\\ICommonService.cs",
@@ -101,7 +119,8 @@
               "RelativeToolTip": "BackendAPIProject\\Services\\ICommonService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T15:22:50.062Z"
+              "WhenOpened": "2024-07-04T15:22:50.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,14 +130,14 @@
               "RelativeDocumentMoniker": "BackendAPIProject\\Program.cs",
               "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Program.cs",
               "RelativeToolTip": "BackendAPIProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T15:12:21.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BeerController.cs",
               "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Web_Mobile_Training_Projects\\BackendAPIProject\\BackendAPIProject\\Controllers\\BeerController.cs",
               "RelativeDocumentMoniker": "BackendAPIProject\\Controllers\\BeerController.cs",

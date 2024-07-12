@@ -1,4 +1,5 @@
-﻿using BackendAPIProject.DTOs;
+﻿using AutoMapper;
+using BackendAPIProject.DTOs;
 using BackendAPIProject.Models;
 using BackendAPIProject.Repository;
 using Microsoft.EntityFrameworkCore;
@@ -9,38 +10,28 @@ namespace BackendAPIProject.Services
     {
         private StoreContext _context;
         private IRepository<Beer> _beerRepository;
+        private IMapper _mapper;
 
-        public BeerService(StoreContext context,IRepository<Beer> beerRepository) 
+        public BeerService(StoreContext context,IRepository<Beer> beerRepository,IMapper mapper) 
         {
             _context        = context;
             _beerRepository = beerRepository;
+            _mapper = mapper;
         }
         public async Task<BeerDTO> Add(BeerInsertDTO beerInsertDTO)
         {
-            var beer = new Beer()
-            {
-                Name = beerInsertDTO.Name,
-                BrandId = beerInsertDTO.BrandID,
-                Alcohol = beerInsertDTO.Alcohol
-            };
-
+            var beer = _mapper.Map<Beer>(beerInsertDTO);
             await _beerRepository.Add(beer);
             await _beerRepository.Save();
 
-            var beerDTO = new BeerDTO
-            {
-                Id = beer.BeerId,
-                Name = beer.Name,
-                Alcohol = beer.Alcohol,
-                BrandID = beer.BrandId
-            };
+            var beerDTO = _mapper.Map<BeerDTO>(beerInsertDTO);
 
             return beerDTO;
         }
 
         public async Task<BeerDTO> Delete(int id)
         {
-            var beer = await _context.Beers.FindAsync(id);
+            var beer = await _beerRepository.GetById(id);
             if (beer != null)
             {
                 var beerDTO = new BeerDTO
@@ -50,8 +41,8 @@ namespace BackendAPIProject.Services
                     Alcohol = beer.Alcohol,
                     BrandID = beer.BrandId
                 };
-                _context.Remove(beer);
-                await _context.SaveChangesAsync();
+                _beerRepository.Delete(beer);
+                await _beerRepository.Save();
                 return beerDTO;
             }
             return null;
