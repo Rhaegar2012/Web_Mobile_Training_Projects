@@ -7,7 +7,8 @@
         Task Add(TEntity entity);
         void Update(TEntity entity);
         Task Delete(TEntity entity);
-        Task Save(); 
+        Task Save();
+        IEnumerable<TEntity> Search(Func<TEntity, bool> filter);
 
 
     }

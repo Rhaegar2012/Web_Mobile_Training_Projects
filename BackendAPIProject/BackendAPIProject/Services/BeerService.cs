@@ -11,7 +11,7 @@ namespace BackendAPIProject.Services
         private StoreContext _context;
         private IRepository<Beer> _beerRepository;
         private IMapper _mapper;
-
+        public List<String> Errors { get; set; }
         public BeerService(StoreContext context,IRepository<Beer> beerRepository,IMapper mapper) 
         {
             _context        = context;
@@ -102,6 +102,25 @@ namespace BackendAPIProject.Services
             }
             return null;
            
+        }
+
+        public bool Validate(BeerInsertDTO beerInsertDTO) 
+        {
+            if(_beerRepository.Search(b=>b.Name == beerInsertDTO.Name).Count() > 0) 
+            {
+                Errors.Add("A beer can't have an existing name");
+                return false;
+            }
+            return true;
+        }
+
+        public bool Validate(BeerUpdateDTO beerInsertDTO) 
+        {
+            if(_beerRepository.Search(b=>b.Name == beerInsertDTO.Name && beerInsertDTO.Id !=b.BeerId).Count() > 0) 
+            {
+                Errors.Add("A beer can't have an existing name ");
+            }
+            return true;
         }
     }
 }

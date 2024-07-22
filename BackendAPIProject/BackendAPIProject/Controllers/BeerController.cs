@@ -52,6 +52,11 @@ namespace BackendAPIProject.Controllers
                 return BadRequest(validationResult.Errors);
             }
 
+            if (!_beerService.Validate(beerInsertDTO)) 
+            {
+                return BadRequest(_beerService.Errors);
+            }
+
        
             var beerDTO = await _beerService.Add(beerInsertDTO);
 
@@ -68,7 +73,11 @@ namespace BackendAPIProject.Controllers
             }
 
             var beerDTO = await _beerService.Update(id, beerUpdateDTO);
-           
+
+            if (!_beerService.Validate(beerUpdateDTO)) 
+            {
+                return BadRequest(_beerService.Errors);
+            }
           
             return beerDTO == null ? NotFound(): Ok(beerDTO);
         }

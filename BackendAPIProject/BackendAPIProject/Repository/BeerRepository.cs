@@ -37,6 +37,11 @@ namespace BackendAPIProject.Repository
             await _context.SaveChangesAsync();
         }
 
+        public IEnumerable<Beer> Search(Func<Beer,bool>filter) 
+        {
+            return _context.Beers.Where(filter).ToList();
+        }
+
         public void Update(Beer beer)
         {
             _context.Beers.Attach(beer);
