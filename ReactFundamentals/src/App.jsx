@@ -1,4 +1,7 @@
 
+//react Hook function useState, they must only be called inside react component functions or custom react hooks , only called in the upper level (not wrapped in ifs or loops)
+
+import {useState} from 'react'
 import {CORE_CONCEPTS} from './data.js';
 import Header          from './components/Header.jsx'
 import CoreConcept     from './components/CoreConcept.jsx';
@@ -16,9 +19,16 @@ import TabButton       from './components/TabButton.jsx';
 
 //Default component
 function App() {
+  //Hook function , useState allows to manage component specific state , when changed it will trigger the parent component function to re execute
+  //Input default state for reach to store (Initial state value)
+  //Return an array of 2 elements (always), the names of the elements are up to the user but they typically follow a specific convetion
+  //First element -> current state provided by React 
+  //Second element -> function to update the stored value 
+  const[selectedTopic,setSelectedTopic]=useState('Please click a button');
   function handleSelect(selectedButton){
     // selectedButton => 'components, 'jsx' , 'props' 
-    console.log(selectedButton);
+    setSelectedTopic(selectedButton);
+    console.log(selectedTopic);
   }
 
   return (
@@ -42,6 +52,7 @@ function App() {
             <TabButton onSelect={()=>handleSelect('props')}>Props</TabButton>
             <TabButton onSelect={()=>handleSelect('state')}>State</TabButton>
           </menu>
+          {selectedTopic}
         </section>
       </main>
     </div>
