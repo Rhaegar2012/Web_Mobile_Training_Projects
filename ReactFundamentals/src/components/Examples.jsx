@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import {useState} from 'react';
 import {EXAMPLES} from '../data';
 import TabButton from './TabButton.jsx';
 import Section from './Section.jsx';
+import Tabs from './Tabs.jsx';
 
 
 //Using properties with object destructuring:
@@ -40,13 +41,14 @@ export default function Examples()
     return(
         
         <Section title="Examples" id="examples">
-          <menu>
-            <TabButton isSelected={selectedTopic==='components'} onSelect={()=>handleSelect('components')}>Components</TabButton>
+          <Tabs buttonsContainer="menu" buttons={ <Fragment> <TabButton isSelected={selectedTopic==='components'} onSelect={()=>handleSelect('components')}>Components</TabButton>
             <TabButton isSelected={selectedTopic==='jsx'} onSelect={()=>handleSelect('jsx')}>JSX</TabButton>
             <TabButton isSelected={selectedTopic==='props'} onSelect={()=>handleSelect('props')}>Props</TabButton>
-            <TabButton isSelected={selectedTopic==='state'} onSelect={()=>handleSelect('state')}>State</TabButton>
+            <TabButton isSelected={selectedTopic==='state'} onSelect={()=>handleSelect('state')}>State</TabButton></Fragment>}>{tabContent}</Tabs>
+          <menu>
+          
           </menu>
-          {tabContent}
+          
         </Section>
     );
 }
