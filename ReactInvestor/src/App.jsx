@@ -6,15 +6,6 @@ import {calculateInvestmentResults} from './util/investment.js';
 
 
 
-function updateInvestmentCalculation(investmentData){
-
-    let annualData=calculateInvestmentResults(investmentData.initialInvestment,
-                                          investmentData.annualInvestment, 
-                                          investmentData.expectedReturn,
-                                          investmentData.duration); 
-    return annualData; 
-
-}
 
 function App() {
 
@@ -28,9 +19,8 @@ function App() {
 
   
 
-  const tableData=updateInvestmentCalculation(investmentData);
-  console.log(investmentData);
-  console.log(tableData);
+  const tableData=calculateInvestmentResults(investmentData);
+  
   return (
     <main>
       <Header/>

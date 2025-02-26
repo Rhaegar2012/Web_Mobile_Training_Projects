@@ -16,7 +16,7 @@ export default function InputPanel({investmentData, onInvestmentUpdate}){
      };
 
     return(
-    <div className='user-input'>
+    <div className="user-input">
             <div className='input-group'>
                 <div className='input-row'>
                     <div>
