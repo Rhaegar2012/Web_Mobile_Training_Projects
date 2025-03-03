@@ -1,9 +1,6 @@
 import '../index.css';
 import {useState} from "react";
 
-
-
-
 export default function InputPanel({investmentData, onInvestmentUpdate}){
 
    //lifting state to app
@@ -14,6 +11,24 @@ export default function InputPanel({investmentData, onInvestmentUpdate}){
          [name]:Number(value)
        });
      };
+
+     //Alternative object update 
+     //Define initial state
+     const [userInput,setUserInput]=useState({
+        initialInvestment:1000,
+        annualInvestment:1200,
+        expectedReturn:6,
+        duration:10,
+     });
+
+    function handleChange(inputIdentifier,newValue){
+        setUserInput(prevUserInput=>{
+            return{
+                ...prevUserInput,
+                [inputIdentifier]:newValue
+            };
+        });
+    }
 
     return(
     <div className="user-input">

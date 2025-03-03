@@ -17,15 +17,19 @@ function App() {
     duration:0
   }) ;
 
-  
+
+  const inputIsValid = investmentData.duration>=1;
 
   const tableData=calculateInvestmentResults(investmentData);
+  
+
   
   return (
     <main>
       <Header/>
       <InputPanel investmentData={investmentData} onInvestmentUpdate={onInvestmentUpdate}/>
-      <Table tableData={tableData}/>
+      {!inputIsValid && <p className="center">Please enter a duration greater than zero</p>}
+      {inputIsValid && <Table tableData={tableData}/>}
     </main>
     
   );

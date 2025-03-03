@@ -1,9 +1,14 @@
 import "../index.css";
 import {formatter} from '../util/investment';
 
-
 export default function Table({tableData}){
-    console.log(tableData);
+    const array=tableData;
+    let initialInvestment =0;
+    if(array.length!==0)
+    {
+         initialInvestment = array[0].valueEndOfYear-array[0].interest-array[0].annualInvestment;
+    }
+    
     return(
         <table className='result'>
             <thead className='result thead'>
@@ -18,9 +23,10 @@ export default function Table({tableData}){
             <tbody className='result tbody'>
                 {tableData.map(tableItem=>(<tr key={tableData.year}>
                     <td>{tableItem.year}</td>
-                    <td>{tableItem.interest}</td>
-                    <td>{tableItem.valueEndOfYear}</td>
-                    <td>{tableItem.annualInvestment}</td>
+                    <td>{formatter.format(tableItem.valueEndOfYear)}</td>
+                    <td>{formatter.format(tableItem.interest)}</td>
+                    <td>{formatter.format(tableItem.valueEndOfYear-tableItem.annualInvestment*tableItem.year-initialInvestment)}</td>
+                    <td>{formatter.format(tableItem.valueEndOfYear-(tableItem.valueEndOfYear-tableItem.annualInvestment*tableItem.year-initialInvestment))}</td>
                 </tr>))}
             </tbody>
         </table>
