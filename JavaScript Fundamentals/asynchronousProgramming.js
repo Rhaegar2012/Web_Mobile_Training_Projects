@@ -13,7 +13,7 @@ setTimeout(()=>console.log("Tick"),500);
 
 let fifteen = Promise.resolve(15);
 fifteen.then(value =>console.log(`Got ${value}`));
-//Asynchronous function using proise 
+//Asynchronous function using promise that does not automatically resolve 
 
 function textFile(filename){
     return new Promise(resolve =>{
@@ -26,4 +26,63 @@ function randomFile(listFile){
     .then(content=>content.trim().split("\n"))
     .then(ls=>ls[Math.floor(Math.random()*ls.length)])
     .then(filename=>textFile(filename));
+}
+
+//Failure 
+function textFileWithErrorHandling(filename){
+    return new Promise((resolve,reject)=>{
+        readTextFile(filename,(text,error)=>{
+            if(error) reject (error);
+            else resolve(text);
+        });
+    });
+}
+
+function withTimeout(promise,time){
+    return new Promise((resolve,reject)=>{
+        promise.then(resolve,reject);
+        setTimeout(()=>reject("Timed out"),time);
+    });
+}
+
+//Recursive function to guess a password when a digit is found the function continues searching for a new digit
+function crackPasscode(networkID){
+    function nextDigit(code,digit){
+        let newCode = code+digit;
+        return withTimeout(joinWifi(networkID,newCode),50)
+            .then(()=>newCode)
+            .catch(failure =>{
+                if(failure =="Timed out"){
+                    return nextDigit(newCode,0);
+                }else if(digit<9){
+                    return nextDigit(code,digit+1);
+                }else{
+                    throw failure;
+                }
+            });
+    }
+    return nextDigit("",0);
+}
+
+//An async function implicitly returns a promise and can await other promises that look synchronous
+//When an async promise returns the promise is resolved , if the body throw an exception the promise is rejected
+//rewriting crack passcode to use async
+
+async function crackPasscode(networkID){
+    for(let code="";;){
+        for(let digit =0;;digit++){
+            let newCode = code+digit;
+            try{
+                await withTimeout(joinWifi(networkID,newCode),50);
+                return newCode;
+            }catch (failure){
+                if(failure == "Timed out"){
+                    code = newCode;
+                    break;
+                }else if(digit ==9){
+                    throw failure;
+                }
+            }
+        }
+    }
 }
